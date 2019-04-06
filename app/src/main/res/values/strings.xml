@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GovtSide</string>
+
+    <string-array name="Subsidy_Type">
+        <item>Water</item>
+        <item>Wheat</item>
+        <item>Cotton</item>
+        <item>Groundnut</item>
+        
+    </string-array>
+</resources>
