@@ -27,17 +27,30 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content" />
 
+
+    <EditText
+        android:inputType="numberDecimal"
+        android:gravity="center"
+        android:hint="Amount per Hectare"
+        android:layout_margin="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/eSubsidyName"
+        android:id="@+id/eAmountPerHectare"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content" />
+
     <Spinner
 
         android:gravity="center"
         android:hint="Subsidy Name"
         android:layout_margin="10dp"
         android:layout_centerHorizontal="true"
-        android:layout_below="@+id/eSubsidyName"
+        android:layout_below="@+id/eAmountPerHectare"
         android:id="@+id/sSubsidyType"
         android:layout_width="250dp"
         android:layout_height="wrap_content" />
 
+<<<<<<< HEAD
     <EditText
         android:inputType="numberDecimal"
         android:gravity="center"
@@ -55,6 +68,13 @@
         android:layout_margin="20dp"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/eAmountPerHectare"
+=======
+    <Button
+        android:layout_margin="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="submit"
+>>>>>>> c3812343a1be957bf1a5f62835ee052483e3438d
         android:text="Submit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
