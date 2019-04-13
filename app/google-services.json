@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "868763480257",
+    "firebase_url": "https://sen-project-152f8.firebaseio.com",
+    "project_id": "sen-project-152f8",
+    "storage_bucket": "sen-project-152f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868763480257:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmsRL-5r_kxpQ9ybEbzdOGFSDMahfjN-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868763480257-0en1buebrf2djdolb7bgg7ci1pvac28c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868763480257-amqm83gk6ogr1drlnp0kuudoaddfb325.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myapplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868763480257:android:bd1347792ec5463b",
+        "android_client_info": {
+          "package_name": "com.example.shivanibhandari.govtside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868763480257-88qq3nuk6tepdm8bemrgikt0uqvdl7th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivanibhandari.govtside",
+            "certificate_hash": "05565bcc021750ce891683ca516fad8966a3b5b3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmsRL-5r_kxpQ9ybEbzdOGFSDMahfjN-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868763480257-0en1buebrf2djdolb7bgg7ci1pvac28c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868763480257-amqm83gk6ogr1drlnp0kuudoaddfb325.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myapplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868763480257:android:e838e9bb6781736c",
+        "android_client_info": {
+          "package_name": "practice.com.sen_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmsRL-5r_kxpQ9ybEbzdOGFSDMahfjN-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868763480257-0en1buebrf2djdolb7bgg7ci1pvac28c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868763480257-amqm83gk6ogr1drlnp0kuudoaddfb325.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
